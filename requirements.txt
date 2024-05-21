@@ -1,0 +1,16 @@
+langchain
+openai
+datasets
+qdrant-client
+tiktoken
+transformers==4.25.1
+langchain-groq
+huggingface_hub
+langchain
+langchain_openai
+langchain_core
+pypdf
+langchain_community
+SpeechRecognition
+pyttsx3
+InstructorEmbedding
